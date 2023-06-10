@@ -5,6 +5,10 @@ Codelândia é uma comunidade que te ajuda a aprender mais por meio de desafios.
 <br><br>
 Nesse desafio, você deverá recriar uma aplicação, a partir de um layout no figma, para treinar o conhecimento até o momento. 
 
+## Stack utilizada
+
+**Front-end:** HTML, CSS
+
 ## Aprendizados
 
 - HTML Semântico;
